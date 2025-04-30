@@ -2,5 +2,5 @@
 
 *Gabriel Pinilla  
 *Laura Navarrete  
-*Fabian Fonseca 
+*Fabian Fonseca   
 *Estefania España  
